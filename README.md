@@ -8,7 +8,7 @@ _Create and run a GitHub Actions workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now added a fully functioning workflow to your repository! :smile:_
+_You've now added a fully functioning workflow to your repository! :smile:_ 
 
 The shell script in the workflow will run whenever a new pull request is opened.
 
@@ -25,6 +25,7 @@ The shell script in the workflow will run whenever a new pull request is opened.
 1. Notice the comment that the workflow adds to the pull request.
 1. Wait about 20 seconds, then refresh this page (the one you're following instructions from). Another workflow will run and will replace this content with instructions for the next step.
 
+edit: :smile:_
 <footer>
 
 ---
